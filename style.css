@@ -185,7 +185,9 @@ body {
   width: 350px;
 }
 
-
+.cover-heading-small img {
+  width: 250px !important;
+}
 
 small {
     color:#ccc!important;
